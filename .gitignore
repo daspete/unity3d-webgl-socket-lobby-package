@@ -1,0 +1,10 @@
+/.vs
+/builds
+/Client
+/Server
+/Library
+/ProjectSettings
+/Temp
+/WebSocketLobby.sln
+/WebSocketLobly.CSharp.csproj
+/**/*.meta
