@@ -1,10 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-[System.Serializable]
-public class PlayerClickData {
+namespace WebGLSocketLobby.ExampleGame {
+    [System.Serializable]
+    public class PlayerClickData {
 
-    public string playerID;
-    public float clickTime;
+        public string playerID;
+        public float clickTime;
 
+    }
 }
